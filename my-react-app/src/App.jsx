@@ -1,8 +1,10 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react';
 // eslint-disable-next-line no-unused-vars
 import { swatibutton } from "./swatibutton";
 import Hello from "./hello";
 import Random from "./Random";
+import 'bootstrap/dist/css/bootstap.min.css'
 
 function App() {
     return (
